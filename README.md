@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Ethan Xu, a software engineer with a strong interest in Web2/3. I specialize in Go and love exploring new technologies. My goal is to become a full-fledged developer and contribute to the community to make it better.
 
 <!--
 **ethanxuedu/ethanxuedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
